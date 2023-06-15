@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🤖 Learn Robotics | My Online Courses</title>
-    <link>https://example.com/course/robotics/</link>
-      <atom:link href="https://example.com/course/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/</link>
+      <atom:link href="https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>🤖 Learn Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/course/robotics/featured.jpg</url>
+      <url>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/featured.jpg</url>
       <title>🤖 Learn Robotics</title>
-      <link>https://example.com/course/robotics/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://example.com/course/robotics/python/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/robotics/python/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://example.com/course/robotics/visualization/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/robotics/visualization/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>Statistics</title>
-      <link>https://example.com/course/robotics/stats/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/robotics/stats/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;

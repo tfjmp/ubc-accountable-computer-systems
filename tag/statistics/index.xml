@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics | My Online Courses</title>
-    <link>https://example.com/tag/statistics/</link>
-      <atom:link href="https://example.com/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tfjmp.org/ubc-accountable-computer-systems/tag/statistics/</link>
+      <atom:link href="https://tfjmp.org/ubc-accountable-computer-systems/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics</title>
-      <link>https://example.com/tag/statistics/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/tag/statistics/</link>
     </image>
     
     <item>
       <title>Statistics</title>
-      <link>https://example.com/course/data-science/stats/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/data-science/stats/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -42,9 +42,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Statistics</title>
-      <link>https://example.com/course/robotics/stats/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/robotics/stats/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;

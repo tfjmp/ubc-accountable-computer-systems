@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization | My Online Courses</title>
-    <link>https://example.com/tag/data-visualization/</link>
-      <atom:link href="https://example.com/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tfjmp.org/ubc-accountable-computer-systems/tag/data-visualization/</link>
+      <atom:link href="https://tfjmp.org/ubc-accountable-computer-systems/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Data Visualization</title>
-      <link>https://example.com/tag/data-visualization/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/tag/data-visualization/</link>
     </image>
     
     <item>
       <title>Visualization</title>
-      <link>https://example.com/course/data-science/visualization/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/data-science/visualization/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://example.com/course/robotics/visualization/</link>
+      <link>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/robotics/visualization/</guid>
+      <guid>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
