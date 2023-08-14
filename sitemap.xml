@@ -4,50 +4,92 @@
   
   
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/assessments/text/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/schedule/table/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/1-trust-and-security/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/2-sovereignty-in-a-digital-world/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/3-storing-and-transporting-data/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/4-surveillance-in-the-digital-age/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/5-ml-and-ai/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/current/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/1-trust-and-security/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/data-science/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/2-sovereignty-in-a-digital-world/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/robotics/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/3-storing-and-transporting-data/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/4-surveillance-in-the-digital-age/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/previous/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/5-ml-and-ai/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tags/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/1-trust-and-security/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/2-sovereignty-in-a-digital-world/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/3-storing-and-transporting-data/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/4-surveillance-in-the-digital-age/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/5-ml-and-ai/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/current/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/5-ml-and-ai/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/2-sovereignty-in-a-digital-world/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/3-storing-and-transporting-data/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/4-surveillance-in-the-digital-age/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tags/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/course/1-trust-and-security/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/zzzz/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/data-visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/statistics/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/authors/</loc><lastmod>2020-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/post/</loc><lastmod>2020-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/thomas-pasquier/</loc><lastmod>2020-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tfjmp.org/ubc-accountable-computer-systems/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/contact/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/assessments/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/authors/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/schedule/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/benjamin-goold/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tfjmp.org/ubc-accountable-computer-systems/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/nelson-bighetti/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/cristie-ford/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/preface/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/kristen-thomasen/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/laura-nelson/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/luciana-duranti/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/margo-seltzer/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/author/muhammad-abdul-mageed/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tfjmp.org/ubc-accountable-computer-systems/tag/preface/</loc><changefreq>weekly</changefreq></url></urlset>
